@@ -1,0 +1,16 @@
+{
+  "name": "test-db",
+  "version": "1.0.0",
+  "description": "test-db with ssh thunnel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lukman",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.5.1",
+    "ssh2": "^1.14.0"
+  }
+}
